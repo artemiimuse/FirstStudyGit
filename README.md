@@ -1,5 +1,7 @@
 # FirstStudyGit
 
+## My Super Project
+
 - Initialize the project repository
 - Add the main feature
 - Create unit tests
