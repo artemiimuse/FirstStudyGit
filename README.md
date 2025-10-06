@@ -1,6 +1,6 @@
 # FirstStudyGit
 
-## My Awesome Project
+## My Project Plan
 
 - Initialize the project repository
 - Add the main feature
